@@ -6,3 +6,6 @@ check list:
 - SVD file to transform by PCA (ok)
 - ??? Are PCA pivots needed?
 
+
+TODO: nakonec nastavit ve FSGlobal at se soubory prepisuji.
+
