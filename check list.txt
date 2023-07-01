@@ -8,4 +8,5 @@ check list:
 
 
 TODO: nakonec nastavit ve FSGlobal at se soubory prepisuji.
+TODO: třída LearningSecondaryFilteringWithSketches - upravit parametry pro iDim
 
