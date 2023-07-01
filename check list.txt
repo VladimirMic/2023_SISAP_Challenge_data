@@ -1,0 +1,6 @@
+check list:
+- Assumption: dataset and query set is uploaded to proper folders
+
+- Upload 20k pivots (ok)
+- ??? Are pivots needed?
+
