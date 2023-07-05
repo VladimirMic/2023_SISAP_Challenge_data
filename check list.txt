@@ -2,11 +2,10 @@ check list:
 - Assumption: dataset and query set is uploaded to proper folders by GHA or sb. else
 
 - Vlada's GIT data files:
-   - 20k pivots (ok)
    - SVD file to transform by PCA (ok)
    - 
 
 
-TODO: nakonec nastavit ve FSGlobal at se soubory prepisuji.
-TODO: třída LearningSecondaryFilteringWithSketches - upravit parametry pro iDim
+- FSGlobal at se soubory prepisuji.
+- třída LearningSecondaryFilteringWithSketches - upravit parametry pro iDim
 
